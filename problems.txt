@@ -1,0 +1,12 @@
+1. rows? columns?
+2. Data type of columns
+3. Missing values
+
+info() - method
+1. No. of rows and columns
+2. Column name
+3. data type
+4. Non - null counts
+5. Memory usage of the data frame
+
+object - string / categorical data
